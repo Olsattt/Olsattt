@@ -5,6 +5,10 @@
 ## Connect with me:
 <a href="https://vk.com/id180747940"><img align = "left" alt = "vk" src = "vk.png" idth="40" height="40"/></a>
 <a href="mailto:oleg.kuvaev.93@mail.ru"><img align = "left" alt = "email" src = "email.jpg" idth="40" height="40"/></a>
+<br>
+## Languages & Tools:<br>
+<img align = "left" alt = "html" src = "иконки/html.png" idth="40" height="40"/>
+<img align = "left" alt = "иконки/css" src = "css.png" idth="40" height="40"/>
 
 <!--
 **Olsattt/Olsattt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
