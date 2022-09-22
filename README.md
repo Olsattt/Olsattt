@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there, I`m Oleg 👋
 ## I`m WEb developer
+- i like to write code on Java & PHP
+- I`m constantly learning new things
+## Connect with me:
+<img align = "left" alt = "vk" src = "vk.png"/>
 
 <!--
 **Olsattt/Olsattt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
